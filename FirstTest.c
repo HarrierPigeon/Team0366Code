@@ -6,7 +6,14 @@
 
 task main()
 {
+  //test
+	while (0!=1)
+	{
+		startMotor(motorShoulder,63);
+		wait(.5);
+		stopMotor(motorShoulder)
 
+	}
 
 
 }
