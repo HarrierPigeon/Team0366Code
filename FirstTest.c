@@ -11,7 +11,7 @@ task main()
 	{
 		startMotor(motorShoulder,63);
 		wait(.5);
-		stopMotor(motorShoulder)
+		stopMotor(motorShoulder);
 
 	}
 
